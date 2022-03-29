@@ -7,3 +7,4 @@ use ISRPO\MyClass;
 
 $obj = new MyClass();
 echo $obj->helloWorld();
+ошибка
