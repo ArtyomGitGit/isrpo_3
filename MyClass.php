@@ -5,4 +5,9 @@ class MyClass
     {
         return 'Hello world!';
     }
+
+    public function power(int $a, int $b)
+    {
+        return pow($a, $b);
+    }
 }
