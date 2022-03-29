@@ -1,4 +1,6 @@
 <?php
+namespace ISRPO;
+
 class MyClass
 {
     public function helloWorld()

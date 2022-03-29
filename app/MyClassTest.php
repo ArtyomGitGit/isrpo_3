@@ -1,5 +1,7 @@
 <?php
-require_once 'MyClass.php';
+namespace ISRPO\Tests;
+
+use ISRPO\MyClass;
 
 class MyClassTest extends PHPUnit_Framework_TestCase
 {
