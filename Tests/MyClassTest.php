@@ -25,8 +25,4 @@ class MyClassTest extends TestCase
     {
         $this->assertEquals(9, $this->myClass->power(3, 2));
     }
-
 }
-
-$obj = new MyClass();
-echo $obj->helloWorld();

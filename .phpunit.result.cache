@@ -1,1 +1,1 @@
-{"version":1,"defects":{"ISRPO\\Tests\\MyClassTest::testHelloWorld":3,"ISRPO\\Tests\\MyClassTest::testPower":3},"times":{"ISRPO\\Tests\\MyClassTest::testHelloWorld":0.006,"ISRPO\\Tests\\MyClassTest::testPower":0.002}}
+{"version":1,"defects":{"ISRPO\\Tests\\MyClassTest::testHelloWorld":3,"ISRPO\\Tests\\MyClassTest::testPower":3},"times":{"ISRPO\\Tests\\MyClassTest::testHelloWorld":0.004,"ISRPO\\Tests\\MyClassTest::testPower":0}}
