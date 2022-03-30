@@ -17,7 +17,7 @@ class MyClassTest extends TestCase
          
     }
     public function testHelloWorld()
-    {
+    { 
         $this->assertEquals('Hello world!', $this->myClass->helloWorld());
     }
 
